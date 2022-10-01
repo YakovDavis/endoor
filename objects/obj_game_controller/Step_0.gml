@@ -1,3 +1,3 @@
 /// @description Insert description here
 
-global.secondsPassed += delta_time / 1000000;
+global.seconds_passed += delta_time / 1000000;
